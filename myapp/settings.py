@@ -22,7 +22,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '98.86.221.241', 'ec2-98-86-221-241.compute-1.amazonaws.com'] # add the public ip addresses
+ALLOWED_HOSTS = ['localhost', '3.91.52.195', 'ec2-3-91-52-195.compute-1.amazonaws.com'] # add the public ip addresses
  
 
 # Application definition
